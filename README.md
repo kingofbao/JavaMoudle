@@ -1,0 +1,2 @@
+# JavaMoudle
+java common method
